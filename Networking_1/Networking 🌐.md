@@ -419,7 +419,7 @@
 ![photo_2025-05-19_23-39-59](image/photo_2025-05-19_23-39-59.jpg)
 
 
-## For more [Here](https://youtu.be/5WfiTHiU4x8?list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF) and [Here](https://youtu.be/5WfiTHiU4x8?list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF](https://youtu.be/5ouvcRw8CE0?list=PLKXxT8ltBxOfw8J6J2VvRwaDVII--PIQc)
+## For more [Here](https://youtu.be/5WfiTHiU4x8?list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF)
 
 ---
 
