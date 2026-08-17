@@ -1361,3 +1361,11 @@ A **NIC** is like a **network passport** for your computer — it gives your dev
 
 ### Created by Yosef( Hxbno ).
 #### © May_25_2025
+
+
+
+
+
+
+
+NAT
