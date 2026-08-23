@@ -494,10 +494,10 @@
 
 ![bvpn](image/bvpn.png)
 
-- ****PPTP:**** It is an older protocol that can be fast, but it provides weak security, so it is mainly used only for legacy systems.
-- ****L2TP/IPsec:**** It combines L2TP tunnelling with IPsec encryption, which improves security, but it can add performance overhead.
-- ****OpenVPN:**** It is an open-source protocol that uses SSL/TLS for encryption, and it is widely adopted because it provides strong security and flexibility.
-- ****IKEv2/IPsec:**** It is a secure and fast protocol that works very well on mobile devices because it reconnects quickly when network conditions change.
+- ##### **PPTP:** It is an older protocol that can be fast, but it provides weak security, so it is mainly used only for legacy systems.
+- ##### **L2TP/IPsec:** It combines L2TP tunnelling with IPsec encryption, which improves security, but it can add performance overhead.
+- ##### **OpenVPN:** It is an open-source protocol that uses SSL/TLS for encryption, and it is widely adopted because it provides strong security and flexibility.
+- ##### **IKEv2/IPsec:** It is a secure and fast protocol that works very well on mobile devices because it reconnects quickly when network conditions change.
 
 
 
