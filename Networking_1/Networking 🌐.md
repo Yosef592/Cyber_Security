@@ -456,7 +456,7 @@
 
 - ##### A **router** handles routing traffic between networks (e.g., your home network and the internet) and often does NAT.
 - ##### An **access point** just handles the wireless-to-wired bridging — it doesn't route or do NAT on its own.
-- Most home "Wi-Fi routers" are actually a combo device: router + switch + AP all in one box. In enterprise networks, these are usually separate — you'll see dedicated APs mounted on ceilings, all connecting back to switches, often managed centrally by a Wireless LAN Controller (WLC).
+- ##### Most home "Wi-Fi routers" are actually a combo device: router + switch + AP all in one box. In enterprise networks, these are usually separate — you'll see dedicated APs mounted on ceilings, all connecting back to switches, often managed centrally by a Wireless LAN Controller (WLC).
 
 
 
