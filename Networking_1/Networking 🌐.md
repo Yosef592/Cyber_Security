@@ -435,7 +435,7 @@
 - ##### Hides internal network addresses from external networks.
 - ##### Uses port mapping (PAT) to manage multiple device connections simultaneously.
 
-![NAT](/image/nat.png)
+![nat](image/nat.png)
 
 
 
