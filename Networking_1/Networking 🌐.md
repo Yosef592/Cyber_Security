@@ -435,6 +435,8 @@
 - ##### Hides internal network addresses from external networks.
 - ##### Uses port mapping (PAT) to manage multiple device connections simultaneously.
 
+![]*
+
 
 
 
