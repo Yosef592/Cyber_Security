@@ -538,7 +538,9 @@
 ---
 - ##### Here is a link to learn **Cloud Computing**.
 
-![[https://www.youtube.com/watch?v=M988_fsOSWo]]
+https://www.youtube.com/watch?v=M988_fsOSWo
+
+
 
 
 
