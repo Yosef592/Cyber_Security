@@ -478,7 +478,7 @@ A Virtual Private Network (VPN) is a security technology that creates an encrypt
 - ****Reduce ISP throttling:**** Since traffic is encrypted, ISPs can’t easily identify specific activities (streaming/gaming) to selectively slow them.
 - ****Secure remote access:**** Let employees connect to internal company resources securely from outside the organization.
 
-
+![vpn](image/vpn.png)
 
 
 ## ****Types of VPN****
