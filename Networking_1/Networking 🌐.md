@@ -440,6 +440,7 @@
 -----
 
 
+# Wireless Access Point (WAP or AP)
 A **Wireless Access Point (WAP or AP)** is a networking device that lets Wi-Fi devices (laptops, phones, IoT gadgets) connect to a wired network without plugging in a cable. It essentially acts as a bridge between the wireless world and the wired network.
 
 **How it works:**
