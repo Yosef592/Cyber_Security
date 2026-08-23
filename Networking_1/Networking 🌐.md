@@ -521,8 +521,11 @@
 ---
 ![Network_Virtualization](image/Network_Virtualization.png)
 
+![Network_Virtualization_How](image/Network_Virtualization_How.png)
 
+## Type of Network_Virtualization
 
+![]()
 
 
 
