@@ -506,9 +506,13 @@
 ---
 ![network_cable](image/network_cable.png)
 
-![co]()
+![co](image/co.png)
 
+![twi](image/twi.png)
 
+![fib](fib.png)
+
+![und]
 
 
 
