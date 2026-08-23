@@ -481,6 +481,33 @@ A Virtual Private Network (VPN) is a security technology that creates an encrypt
 
 
 
+## ****Types of VPN****
+
+### A) Types based on usage (deployment)
+
+A deployment-based VPN type describes who is connecting and what network is being protected.
+
+![vpn_based_on_usage](https://media.geeksforgeeks.org/wp-content/uploads/20260207111154058673/vpn_based_on_usage.webp "Click to enlarge")
+
+- ****Remote Access VPN:**** It allows an individual user to securely connect to a private network over the internet, and it is widely used by employees working remotely.
+- ****Site-to-Site VPN:**** It securely connects two or more separate networks, such as a head office and branch offices, so internal communication remains protected across locations.
+- ****Mobile VPN:**** It is designed for mobile users and keeps the VPN session stable even when the device switches between Wi-Fi and cellular networks.
+- ****MPLS VPN:**** It is a provider-managed enterprise WAN solution that offers scalable connectivity and traffic prioritization, but it typically does not provide end-to-end encryption by default.
+
+### B) Types based on protocols (tunnelling technology)
+
+Protocol-based VPN types describe how the tunnel is created and secured, and they affect speed, security, and compatibility.
+
+![vpn_based_on_protocols](https://media.geeksforgeeks.org/wp-content/uploads/20260207112856135693/vpn_based_on_protocols.webp "Click to enlarge")
+
+- ****PPTP:**** It is an older protocol that can be fast, but it provides weak security, so it is mainly used only for legacy systems.
+- ****L2TP/IPsec:**** It combines L2TP tunnelling with IPsec encryption, which improves security, but it can add performance overhead.
+- ****OpenVPN:**** It is an open-source protocol that uses SSL/TLS for encryption, and it is widely adopted because it provides strong security and flexibility.
+- ****IKEv2/IPsec:**** It is a secure and fast protocol that works very well on mobile devices because it reconnects quickly when network conditions change.
+
+
+
+
 
 
 
