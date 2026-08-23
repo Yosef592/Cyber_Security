@@ -424,8 +424,6 @@
 ---
 
 
-
-
 # Network Address Translation (NAT)
 
 - ##### Network Address Translation (NAT) allows multiple devices in a private network to access the internet using a single public IP address. It helps conserve IPv4 addresses and hides internal systems for added security.
