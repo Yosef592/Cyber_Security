@@ -437,10 +437,10 @@
 
 ![nat](image/nat.png)
 
+> **Note:** IPv4 provides only 2³² (about 4.3 billion) addresses, which is insufficient considering the massive number of devices connected to the Internet. NAT prevents IP exhaustion by enabling thousands of private devices to share a limited number of public IP addresses.
 
 
-
-
+-----
 
 
 
