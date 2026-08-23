@@ -446,11 +446,11 @@
 
 ##### **How it works:**
 
-- The AP connects to your wired network (a switch or router) via an Ethernet cable.
-- It broadcasts a wireless signal (your SSID — the network name you see when searching for Wi-Fi).
-- Devices connect to that signal using a security protocol (WPA2/WPA3), and the AP forwards their traffic onto the wired network — and ultimately out to the internet if there's a router involved.
+- ##### The AP connects to your wired network (a switch or router) via an Ethernet cable.
+- ##### It broadcasts a wireless signal (your SSID — the network name you see when searching for Wi-Fi).
+- ##### Devices connect to that signal using a security protocol (WPA2/WPA3), and the AP forwards their traffic onto the wired network — and ultimately out to the internet if there's a router involved.
 
-**Important distinction — AP vs. router:**  
+##### **Important distinction — AP vs. router:**  
 People often use these terms interchangeably, but they're different roles:
 
 - A **router** handles routing traffic between networks (e.g., your home network and the internet) and often does NAT.
