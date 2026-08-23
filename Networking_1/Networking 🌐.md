@@ -483,10 +483,10 @@
 
 ![avpn](image/avpn.png)
 
-- ##### **Remote Access VPN:**** It allows an individual user to securely connect to a private network over the internet, and it is widely used by employees working remotely.
-- ****Site-to-Site VPN:**** It securely connects two or more separate networks, such as a head office and branch offices, so internal communication remains protected across locations.
-- ****Mobile VPN:**** It is designed for mobile users and keeps the VPN session stable even when the device switches between Wi-Fi and cellular networks.
-- ****MPLS VPN:**** It is a provider-managed enterprise WAN solution that offers scalable connectivity and traffic prioritization, but it typically does not provide end-to-end encryption by default.
+- ##### **Remote Access VPN:** It allows an individual user to securely connect to a private network over the internet, and it is widely used by employees working remotely.
+- ##### **Site-to-Site VPN:** It securely connects two or more separate networks, such as a head office and branch offices, so internal communication remains protected across locations.
+- ##### **Mobile VPN:** It is designed for mobile users and keeps the VPN session stable even when the device switches between Wi-Fi and cellular networks.
+- **MPLS VPN:** It is a provider-managed enterprise WAN solution that offers scalable connectivity and traffic prioritization, but it typically does not provide end-to-end encryption by default.
 
 ### B) Types based on protocols (tunnelling technology)
 
