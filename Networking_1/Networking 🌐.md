@@ -527,8 +527,9 @@
 
 ![Network_Virtualization_B](image/Network_Virtualization_B.png)
 
+![Network_Virtualization_N](image/Network_Virtualization_N.png)
 
-
+![Network_Virtualization_H](image/Network_Virtualization_H.png)
 
 
 
