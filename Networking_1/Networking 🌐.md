@@ -525,7 +525,8 @@
 
 ## Type of Network_Virtualization
 
-![]()
+![Network_Virtualization_B](image/Network_Virtualization_B.png)
+
 
 
 
