@@ -465,13 +465,13 @@
 
 # Virtual Private Network - VPN
 ---
-A Virtual Private Network (VPN) is a security technology that creates an encrypted tunnel between your device and a VPN server over the internet, so your traffic travels privately and your real IP address is hidden.
+- ##### A Virtual Private Network (VPN) is a security technology that creates an encrypted tunnel between your device and a VPN server over the internet, so your traffic travels privately and your real IP address is hidden.
 
-- ****Privacy protection:**** Hides your IP and encrypts traffic, so ISPs, advertisers, and third parties can’t easily monitor your browsing.
-- ****Security on public Wi-Fi:**** Encryption protects logins and personal data on unsafe networks (airports, cafes).
-- ****Bypass geo-restrictions:**** Changes your apparent location by routing through another region’s server, unlocking region-limited sites or services.
-- ****Reduce ISP throttling:**** Since traffic is encrypted, ISPs can’t easily identify specific activities (streaming/gaming) to selectively slow them.
-- ****Secure remote access:**** Let employees connect to internal company resources securely from outside the organization.
+- ##### **Privacy protection:** Hides your IP and encrypts traffic, so ISPs, advertisers, and third parties can’t easily monitor your browsing.
+- ##### **Security on public Wi-Fi:** Encryption protects logins and personal data on unsafe networks (airports, cafes).
+- ##### **Bypass geo-restrictions:** Changes your apparent location by routing through another region’s server, unlocking region-limited sites or services.
+- ##### **Reduce ISP throttling:** Since traffic is encrypted, ISPs can’t easily identify specific activities (streaming/gaming) to selectively slow them.
+- ##### **Secure remote access:** Let employees connect to internal company resources securely from outside the organization.
 
 ![vpn](image/vpn.png)
 
