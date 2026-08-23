@@ -487,7 +487,7 @@ A Virtual Private Network (VPN) is a security technology that creates an encrypt
 
 A deployment-based VPN type describes who is connecting and what network is being protected.
 
-![vpn_based_on_usage](https://media.geeksforgeeks.org/wp-content/uploads/20260207111154058673/vpn_based_on_usage.webp "Click to enlarge")
+![avpn](image/avpn.png)
 
 - ****Remote Access VPN:**** It allows an individual user to securely connect to a private network over the internet, and it is widely used by employees working remotely.
 - ****Site-to-Site VPN:**** It securely connects two or more separate networks, such as a head office and branch offices, so internal communication remains protected across locations.
@@ -498,7 +498,7 @@ A deployment-based VPN type describes who is connecting and what network is bein
 
 Protocol-based VPN types describe how the tunnel is created and secured, and they affect speed, security, and compatibility.
 
-![vpn_based_on_protocols](https://media.geeksforgeeks.org/wp-content/uploads/20260207112856135693/vpn_based_on_protocols.webp "Click to enlarge")
+![bvpn](image/bvpn.png)
 
 - ****PPTP:**** It is an older protocol that can be fast, but it provides weak security, so it is mainly used only for legacy systems.
 - ****L2TP/IPsec:**** It combines L2TP tunnelling with IPsec encryption, which improves security, but it can add performance overhead.
