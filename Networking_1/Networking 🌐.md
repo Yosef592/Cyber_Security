@@ -429,10 +429,11 @@
 # Network Address Translation (NAT)
 
 - ##### Network Address Translation (NAT) allows multiple devices in a private network to access the internet using a single public IP address. It helps conserve IPv4 addresses and hides internal systems for added security.
-- Translates private IP addresses into public IP addresses and vice versa.
-- Reduces IPv4 shortage by allowing multiple devices to share one public IP
-- Hides internal network addresses from external networks.
-- Uses port mapping (PAT) to manage multiple device connections simultaneously
+
+- ##### Translates private IP addresses into public IP addresses and vice versa.
+- ##### Reduces IPv4 shortage by allowing multiple devices to share one public IP.
+- ##### Hides internal network addresses from external networks.
+- ##### Uses port mapping (PAT) to manage multiple device connections simultaneously.
 
 
 
