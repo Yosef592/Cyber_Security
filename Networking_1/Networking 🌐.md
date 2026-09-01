@@ -1480,6 +1480,6 @@ A **NIC** is like a **network passport** for your computer — it gives your dev
 
 ---
 
-### Created by Yosef( Hxbno ).
+### Created by Yosef ( D3f4ult ).
 #### © Sept_01_2026
 
